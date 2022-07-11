@@ -1,0 +1,14 @@
+# Dolphin folder
+.directory
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+# Composer vendor folder
+/vendor
+phpunit.xml
+.phpunit.result.cache
