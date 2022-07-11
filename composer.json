@@ -1,4 +1,9 @@
 {
+  "name": "bcode/cms",
+  "type": "project",
+  "description": "Bcms",
+  "keywords": ["cms"],
+  "license": "MIT",
   "config": {
     "sort-packages": true
   },
